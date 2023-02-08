@@ -4,4 +4,4 @@ def iterate_colors(colors)
     colors.each do |color|
         arr << color
     end
-end
+end 
